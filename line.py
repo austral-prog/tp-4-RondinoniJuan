@@ -20,4 +20,4 @@ def line():
     print (P1)
     P2 = (X2 + Y2)
     print (P2)
-    print ("La distancia entre ellos es: (math.sqrt((X1 - X2)**2 + (Y1 - Y2)**2))")
+    print ("La distancia entre ellos es: {math.sqrt((X1 - X2)**2 + (Y1 - Y2)**2)}")
